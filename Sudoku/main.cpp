@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	/*Podstawowe zmienne i wielkosc ekranu*/
+	/*Podstawowe zmienne i wielkosc ekranu*/ 
 	settitle("Michal Kobzdaj 127272");
 	ResizeConsole(GetStdHandle(STD_OUTPUT_HANDLE), SZEROKOSC_EKRANU, WYSOKOSC_EKRANU, 1);
 	short klawisz = 0;
