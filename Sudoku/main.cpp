@@ -1,4 +1,4 @@
-#include "lacznik.h"
+#include "lacznik.h" 
 #include "conio2.h"
 using namespace std;
 
