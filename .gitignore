@@ -2,6 +2,7 @@
 Sudoku/Debug
 Sudoku/Release
 Debug/Sudoku.bsc
+ *.sdf
  
 # Windows image file caches
 Thumbs.db
